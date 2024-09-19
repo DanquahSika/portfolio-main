@@ -13,8 +13,8 @@ const data = [
   },
   {
     title: 'Harvest',
-    subtitle: 'Won 3rd. place in 2015 Techcrunch Disrupt SF Hackathon',
-    link: 'https://devpost.com/software/harvest',
+    subtitle: '#',
+    link: 'https://cinematopia-1z1z0lb7e-danquahsikas-projects.vercel.app/',
     image: '/images/projects/harvest.jpg',
     date: '2015-09-20',
     desc:
