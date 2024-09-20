@@ -1,9 +1,9 @@
 // TODO Add a couple lines about each project
 const data = [
   {
-    title: 'Nearest Dollar',
-    subtitle: '2015 BVP Hackathon',
-    image: '/images/projects/nearestdollar.jpg',
+    title: 'Agra',
+    subtitle: '#',
+    image: '/images/projects/addition.png',
     date: '2015-11-20',
     desc:
       'Built for a social impact hackathon. '
@@ -12,21 +12,20 @@ const data = [
       + 'the charity of your choice.',
   },
   {
-    title: 'Harvest',
+    title: 'Cinematopia',
     subtitle: '#',
     link: 'https://cinematopia-1z1z0lb7e-danquahsikas-projects.vercel.app/',
-    image: '/images/projects/harvest.jpg',
-    date: '2015-09-20',
+    image: '/images/projects/project-2.png',
+    date: '2024-10-03',
     desc:
-      'Won ~ $7000 in prizes for an advanced, low cost monitoring solution '
-      + 'for crops. Harvest was designed to catch irrigation leaks, overwatering, '
-      + 'and nutrient deficiencies at an affordable price for the developing world.',
+      'A movie streaming website built with MERN Stack'
+      + '... ',
   },
   {
     title: 'Space Potato',
-    subtitle: 'A kickstarter funded potato powered weather balloon.',
+    subtitle: '#',
     link: 'http://www.spacepotato.org',
-    image: '/images/projects/spacepotato.jpg',
+    image: '/images/projects/Ashtoken.png',
     date: '2015-06-28',
     desc:
       'Launched a potato battery powered weather balloon with two cameras '
@@ -36,7 +35,7 @@ const data = [
   {
     title: 'Cat Detector',
     subtitle: 'A convolutional neural network to classify cats! (and dogs)',
-    image: '/images/projects/catdetector.jpg',
+    image: '/images/projects/Shortener.png',
     date: '2015-05-15',
     desc:
       'Trained a convolutional neural network to classify between ~ 80 cats breeds. '
