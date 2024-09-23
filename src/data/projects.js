@@ -6,10 +6,8 @@ const data = [
     image: '/images/projects/addition.png',
     date: '2015-11-20',
     desc:
-      'Built for a social impact hackathon. '
-      + 'NearestDollar connected to your bank accounts, credit cards, '
-      + 'or debit cards and rounded up your purchases to donate the balance to '
-      + 'the charity of your choice.',
+      'Built for as a project for the Generation Ghana GROW Program. '
+      + 'Digital Marlt platform for selling and buying Agricultural products, ',
   },
   {
     title: 'Cinematopia',
@@ -19,12 +17,12 @@ const data = [
     date: '2024-10-03',
     desc:
       'A movie streaming website built with MERN Stack'
-      + '... ',
+      + 'allowing the cunsumption of APIs from IMDB Database',
   },
   {
-    title: 'Space Potato',
+    title: 'Ashtoken Referral',
     subtitle: '#',
-    link: 'http://www.spacepotato.org',
+    link: 'https://ashtokenreferrals.com/',
     image: '/images/projects/Ashtoken.png',
     date: '2015-06-28',
     desc:

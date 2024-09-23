@@ -42,7 +42,7 @@ const work = [
       'Built a robust referral platform enabling users to invite others into the program, track referrals, and monitor community growth.',
       'Developed a comprehensive dashboard for users to oversee commissions, manage their referral network, and customize payment preferences.',
       'Implemented payment options, including BEP20 wallet addresses, for seamless transactions and commission payouts.',
-      'Ensured the platform was fully responsive and optimized for various devices, providing an intuitive user experience.', 
+      'Ensured the platform was fully responsive and optimized for various devices, providing an intuitive user experience.',
     ],
   },
   {
@@ -78,8 +78,8 @@ const work = [
     highlights: [
       'Led a team of 4 developers.',
       'Developed an agro products market website that fosters buying and selling of agro products.',
-      "Developed a CRUD movie streaming web app that allows the user to navigate seamlessly and search movies based on specific identifiers using API.",
-      "Developed a portfolio website that allows the user to update details from a server through a REST API.",
+      'Developed a CRUD movie streaming web app that allows the user to navigate seamlessly and search movies based on specific identifiers using API.',
+      'Developed a portfolio website that allows the user to update details from a server through a REST API.',
     ],
   },
   {
@@ -96,7 +96,7 @@ const work = [
     highlights: [
       'Edited and proofread content for digital media platforms, including blogs, Facebook, Twitter, Instagram.',
       'Developed and implemented content strategies that align with the brand’s goals.',
-      "Collaborated with the social media team to monitor engagement metrics, track success, and adjust strategies accordingly for brands.",
+      'Collaborated with the social media team to monitor engagement metrics, track success, and adjust strategies accordingly for brands.',
     ],
   },
   {

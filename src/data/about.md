@@ -1,18 +1,16 @@
 # Intro
 
-I am the co-founder and CTO of [Promptfoo](https://promptfoo.dev), where we're building open-source tools to evaluate, find, and fix vulnerabilities in LLMs. Before Promptfoo, I was the VP of Engineering at [SmileID](https://www.usesmileid.com), where I led the development of tools that have helped over 170 million people in Africa gain access to financial services. I also co-founded [Arthena](https://arthena.com) and [Matroid](https://matroid.com).
-
-In my spare time, I enjoy investing in people and ideas through a [small venture fund](https://skepticalinvestments.biz), focusing on projects with high social impact. If you think I can be helpful to you or your cause, or if you're interested in collaborating, feel free to get in touch.
+I am a versatile professional with expertise in web development, digital marketing, brand management, and procurement. With proficiency in full-stack development, particularly the MERN stack, I have led teams to deliver impactful projects like marketplace apps and referral websites. My background also includes content strategy and driving brand growth through effective digital marketing. Additionally, my leadership in community outreach through Harvest International Ministry reflects my passion for innovation, problem-solving, and creating value across various sectors.
 
 # Some History
 
-- My parents put a computer in my bedroom in 1993 when I was 3. It was an old Tandy that ran MS-DOS. My favorite games were Street Rod 2, Wolfenstein 3D, and Tom and Jerry. It had a mechanical keyboard and a turbo button. To this day, I still don't know what pressing the turbo button really did.
-- We subscribed to AOL in 1995. I still remember installing it from a floppy disk onto our brand-new Packard Bell. It took years for me to send my first email.
-- In the summer of 1996, my uncle purchased [MegaRace](https://en.wikipedia.org/wiki/MegaRace) from [Media Play](https://en.wikipedia.org/wiki/Media_Play) and installed it on my mom's work computer. I might have endangered her business by using her computer too much.
-- At 7, I discovered the mini-games hidden in Microsoft Office. I also beat Minesweeper on expert for the first time.
-- At 8, my parents bought me a Sony Mavica MVC-FD71 digital camera after I stole their SLR one too many times. It could fit 10 images to a floppy disk at a 0.3MP resolution. I still have it, and it still works. I've been taking photographs ever since, now with a Nikon D750, D800, and occasionally with a Mamiya 6II.
-- At 19, I took my first graduate course and published my first academic paper.
-- At 20, I co-authored a grant to build a satellite and managed a 60+ person team for the next two years. You can read more about that [here](https://ubnl.space/glados/).
+- In 2020, I graduated with First Class honors in Business Administration from the University of Professional Studies, Accra. I didn’t just study—I also took on leadership roles as Treasurer, Secretary, and Youth Leader, keeping myself as busy as a juggling act.. It had a mechanical keyboard and a turbo button. To this day, I still don't know what pressing the turbo button really did.
+- From 2020 to 2022, I worked at the Youth Employment Agency, managing tenders, supplier databases, and purchasing orders. Let’s just say I became a master at procurement, turning negotiations into an art form.
+- In early 2024, I dove headfirst into web development at Mest Africa. I led a team of developers, and we rolled out an agro marketplace, a movie streaming platform, and—because every dev needs one—a shiny portfolio site.
+- While I was at it, I joined CoreXtreme in April 2024 to develop a ridesharing progressive web app. You know, just casually building complex apps because why not?
+- By June 2024, I became a Frontend Developer at AshToken, creating a referral website to track payments and generate codes for token purchases. React and the MERN stack quickly became my best friends.
+- From November 2022 to February 2024, I moonlighted as a digital marketer at Earth LLC, where I whipped up content strategies and kept my eye on engagement metrics like a hawk.
+- Somewhere in between, in early 2023, I also managed branding and operations at Artfrica Studios, because apparently, I thought juggling two careers wasn’t enough excitement.
 
 Ask me in person for other stories that I'm afraid to share with the internet.
 
@@ -24,16 +22,15 @@ Ask me in person for other stories that I'm afraid to share with the internet.
 - Space
 - Summer
 - [Books](https://drive.google.com/drive/folders/14Yh-kcr1Ol7k2jYWUYFRm4JDxX7rjx3d)
-- Podcasts ([The Daily](https://www.nytimes.com/column/the-daily), [The Ezra Klein Show](https://www.nytimes.com/column/ezra-klein-podcast), [Planet Money](https://www.npr.org/sections/money/), [The Indicator](https://www.npr.org/podcasts/510325/the-indicator-from-planet-money), [This American Life](https://www.thisamericanlife.org/), [99% Invisible](https://99percentinvisible.org/episodes/), [The Economist](http://radio.economist.com/), [Radiolab](https://www.wnycstudios.org/shows/radiolab), [Hidden Brain](https://www.npr.org/series/423302056/hidden-brain), [Inquiring Minds](https://inquiring.show), and others) 
+- Podcasts ([The Daily](https://www.nytimes.com/column/the-daily), [The Ezra Klein Show](https://www.nytimes.com/column/ezra-klein-podcast), [Planet Money](https://www.npr.org/sections/money/), [The Indicator](https://www.npr.org/podcasts/510325/the-indicator-from-planet-money), [This American Life](https://www.thisamericanlife.org/), [99% Invisible](https://99percentinvisible.org/episodes/), [The Economist](http://radio.economist.com/), [Radiolab](https://www.wnycstudios.org/shows/radiolab), [Hidden Brain](https://www.npr.org/series/423302056/hidden-brain), [Inquiring Minds](https://inquiring.show), and others)
 - [Good design](/)
 - [Blogging](/)
 
 # Fun Facts
 
 - I manage social media brand for Harvest Praise.
-- I am a voice over artist when i am not coding.
+- I am a voice over artist when I am not coding.
 - I worked on my second MC gig recently on going on the third in November.
-
 
 # I Dream Of
 
