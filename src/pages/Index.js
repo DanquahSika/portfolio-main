@@ -14,12 +14,12 @@ const Index = () => (
       <header>
         <div className="title">
           <h2>
-            <Link to="/">Portfolio</Link>
+            <Link to="/">Frontend Developer</Link>
           </h2>
-          <p>
+          {/* <p>
             A beautiful, responsive, statically-generated, react application
             written with modern Javascript.
-          </p>
+          </p> */}
         </div>
       </header>
       <p>
@@ -30,11 +30,11 @@ const Index = () => (
         view <Link to="/stats">site statistics</Link>, or{' '}
         <Link to="/contact">contact</Link> me.
       </p>
-      <p>
+      {/* <p>
         {' '}
         Source available{' '}
         <a href="https://abigail-danquah.vercel.app/">here</a>.
-      </p>
+      </p> */}
     </article>
   </Main>
 );
