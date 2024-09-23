@@ -4,7 +4,7 @@ I am a versatile professional with expertise in web development, digital marketi
 
 # Some History
 
-- In 2020, I graduated with First Class honors in Business Administration from the University of Professional Studies, Accra. I didn’t just study—I also took on leadership roles as Treasurer, Secretary, and Youth Leader, keeping myself as busy as a juggling act.. It had a mechanical keyboard and a turbo button. To this day, I still don't know what pressing the turbo button really did.
+- In 2020, I graduated from the University of Ghana, Accra with a Bachelors in Geography and Linguistics - I know! A far cry from Web Development.
 - From 2020 to 2022, I worked at the Youth Employment Agency, managing tenders, supplier databases, and purchasing orders. Let’s just say I became a master at procurement, turning negotiations into an art form.
 - In early 2024, I dove headfirst into web development at Mest Africa. I led a team of developers, and we rolled out an agro marketplace, a movie streaming platform, and—because every dev needs one—a shiny portfolio site.
 - While I was at it, I joined CoreXtreme in April 2024 to develop a ridesharing progressive web app. You know, just casually building complex apps because why not?
