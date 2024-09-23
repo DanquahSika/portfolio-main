@@ -4,7 +4,7 @@ const degrees = [
     school: 'Codetrain Africa',
     degree: 'Software Engineering',
     link: 'https://codetraingh.com/',
-    year: 2024,
+    year: 2026,
   },
   {
     school: 'MEST Africa',
