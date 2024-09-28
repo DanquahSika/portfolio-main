@@ -26,19 +26,17 @@ const data = [
     image: '/images/projects/Ashtoken.png',
     date: '2015-06-28',
     desc:
-      'Launched a potato battery powered weather balloon with two cameras '
-      + 'and gps transponder. Resulting photos were published in a coffee table book. '
-      + 'You can email me for a copy.',
+      'A referral site for Ashtoken that allows the user to build a community by referring new users '
+      + 'and buying the Ashtoken Coin. Includes a dashboard that allows the user to manage. '
+      + 'an account.',
   },
   {
-    title: 'Cat Detector',
-    subtitle: 'A convolutional neural network to classify cats! (and dogs)',
+    title: 'A URL Shortener',
     image: '/images/projects/Shortener.png',
-    date: '2015-05-15',
+    date: '2024-04-30',
     desc:
-      'Trained a convolutional neural network to classify between ~ 80 cats breeds. '
-      + 'Over 60,000 cats were classified before server bills made the project too expensive '
-      + 'to continue hosting.',
+      'A platform that allows for shortening URLs and keeping track of clicks '
+      + 'Great for click data analytics.',
   },
 ];
 
