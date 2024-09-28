@@ -16,7 +16,7 @@ const data = [
     image: '/images/projects/project-2.png',
     date: '2024-10-03',
     desc:
-      'A movie streaming website built with MERN Stack'
+      'A movie streaming website built with MERN Stack '
       + 'allowing the cunsumption of APIs from IMDB Database',
   },
   {
@@ -35,8 +35,8 @@ const data = [
     image: '/images/projects/Shortener.png',
     date: '2024-04-30',
     desc:
-      'A platform that allows for shortening URLs and keeping track of clicks '
-      + 'Great for click data analytics.',
+      'A platform that allows for shortening URLs and keeping track of clicks. '
+      + ' Great for click data analytics.',
   },
 ];
 
