@@ -7,7 +7,7 @@ const data = [
     date: '2015-11-20',
     desc:
       'Built for as a project for the Generation Ghana GROW Program. '
-      + 'Digital Marlt platform for selling and buying Agricultural products, ',
+      + ' Digital Marlt platform for selling and buying Agricultural products, ',
   },
   {
     title: 'Cinematopia',
@@ -17,7 +17,7 @@ const data = [
     date: '2024-10-03',
     desc:
       'A movie streaming website built with MERN Stack '
-      + 'allowing the cunsumption of APIs from IMDB Database',
+      + ' allowing the cunsumption of APIs from IMDB Database',
   },
   {
     title: 'Ashtoken Referral',
