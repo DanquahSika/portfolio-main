@@ -7,7 +7,7 @@ const data = [
     date: '2015-11-20',
     desc:
       'Built for as a project for the Generation Ghana GROW Program. '
-      + ' Digital Marlt platform for selling and buying Agricultural products, ',
+      + ' Digital Market platform for selling and buying Agricultural products, ',
   },
   {
     title: 'Cinematopia',
@@ -17,7 +17,7 @@ const data = [
     date: '2024-10-03',
     desc:
       'A movie streaming website built with MERN Stack '
-      + ' allowing the cunsumption of APIs from IMDB Database',
+      + ' allowing the consumption of APIs from IMDB Database',
   },
   {
     title: 'Ashtoken Referral',
@@ -27,8 +27,8 @@ const data = [
     date: '2015-06-28',
     desc:
       'A referral site for Ashtoken that allows the user to build a community by referring new users '
-      + 'and buying the Ashtoken Coin. Includes a dashboard that allows the user to manage. '
-      + 'an account.',
+      + 'and buying the Ashtoken Coin. Includes a dashboard that allows the user to manage '
+      + ' an account.',
   },
   {
     title: 'A URL Shortener',
