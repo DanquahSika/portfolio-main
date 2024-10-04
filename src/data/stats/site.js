@@ -30,7 +30,7 @@ const data = [
   },
   {
     label: 'Open github issues',
-    key: 'open_issues_count',
+    // key: 'open_issues_count',
     // link: 'https://github.com/DanquahSika/portfolio-main/issues',
    value: '0',
   },
